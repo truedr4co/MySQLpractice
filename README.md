@@ -1,0 +1,2 @@
+# MySQLpractice
+Practice using MySQL. 
